@@ -1,15 +1,14 @@
-# Clean Girl Nails — Hood Landing (v2)
+# Funky Rainbow Nails Landing Page
 
-This is a minimal Next.js + TailwindCSS landing page preconfigured for easy deployment to Vercel.
+A playful one-page landing site for rainbow acrylic press-on nails. Built with Next.js + TailwindCSS.
 
-## What I fixed in this v2 package
-- Use **relative import** in `pages/_app.js` (`import '../styles/globals.css'`) to avoid build errors.
-- Included `_app.js` so Tailwind's `globals.css` is actually loaded.
-- Clean, single CTA linking to: https://amzn.to/482nzlr
-- Simple project structure that Vercel detects as a Next.js app.
+## Features
+- Gradient background with colorful, feminine vibe
+- Single clear call-to-action button linking to: https://amzn.to/46DHIf9
+- Simple, modern styling for young and middle-aged women who love fun nails
 
-## How to deploy
-1. Unzip this package.
-2. Create a GitHub repo and **upload the contents** (not the outer folder) OR upload the zip directly to Vercel (if your Vercel UI shows Upload).
-3. Connect/import to Vercel and deploy — Vercel will auto-detect Next.js.
-4. Optional: shorten the resulting `.vercel.app` link with Bitly for Pinterest.
+## Deployment
+1. Unzip the package.
+2. Upload contents to GitHub or directly to Vercel.
+3. Deploy via Vercel — it will auto-detect Next.js.
+4. Share your live `.vercel.app` link on Pinterest or socials.
