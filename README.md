@@ -1,14 +1,9 @@
-# Colorful Ballerina Nails Landing Page
+# Chillhouse Nails Landing Page
 
-A vibrant landing page for colorful ballerina press-on nails. Built with Next.js + TailwindCSS.
+Minimal Next.js + TailwindCSS landing page for the Chillhouse Chill Tips Nail Kit.
+CTA links to: https://amzn.to/42l4yXL
 
-## Features
-- Gradient background with a fun, feminine vibe
-- Embedded product images from Amazon
-- Single clear call-to-action button linking to: https://amzn.to/4npwJx9
-
-## Deployment
-1. Unzip the package.
-2. Upload contents to GitHub or directly to Vercel.
-3. Deploy via Vercel — it will auto-detect Next.js.
-4. Share your live `.vercel.app` link on Pinterest or socials.
+## How to deploy
+1. Unzip and upload the **contents** to a GitHub repo (or upload the zip directly to Vercel if available).
+2. Connect/import the repo in Vercel — it will auto-detect Next.js and build.
+3. After deploy, copy the .vercel.app link and use it on Pinterest or socials.
