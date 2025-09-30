@@ -1,9 +1,13 @@
 # Chillhouse Nails Landing Page
 
-Minimal Next.js + TailwindCSS landing page for the Chillhouse Chill Tips Nail Kit.
-CTA links to: https://amzn.to/42l4yXL
+Minimal Next.js + Tailwind landing page for Chillhouse Chill Tips Nail Kit.
 
-## How to deploy
-1. Unzip and upload the **contents** to a GitHub repo (or upload the zip directly to Vercel if available).
-2. Connect/import the repo in Vercel — it will auto-detect Next.js and build.
-3. After deploy, copy the .vercel.app link and use it on Pinterest or socials.
+## What this includes
+- One-page landing copy focused on young & stylish audience (also appealing to middle-aged women).
+- Single CTA linking to: https://amzn.to/42l4yXL
+- No images included (per request).
+
+## Deploy
+1. Create a GitHub repo and upload the listed files (keep folder structure).
+2. Connect the repo to Vercel (or upload zip to Vercel) — Vercel will auto-detect Next.js.
+3. After deploy, copy the `.vercel.app` link and use it for Pinterest or socials.
