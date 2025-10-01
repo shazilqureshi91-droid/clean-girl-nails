@@ -1,9 +1,12 @@
-# Chill Tips Landing Page (CTA: amzn.to/4h7kVxv)
+# Glamnetic GLAMZILLA Nails Landing Page
 
-Minimal Next.js + Tailwind landing page ready for deployment.
+Minimal Next.js + Tailwind landing page for Glamnetic GLAMZILLA Tortoiseshell nails.
+
+## CTA
+https://amzn.to/485c6la
 
 ## Deploy
 1. Unzip this package.
-2. Upload the contents to a GitHub repo (or upload the zip directly to Vercel if available).
-3. Import the repo to Vercel and deploy — it will auto-detect Next.js.
-4. Copy the .vercel.app link and use it on Pinterest or socials.
+2. Upload the contents to a GitHub repo (or directly into Vercel if possible).
+3. Import to Vercel — auto-detects Next.js, just deploy.
+4. Share your .vercel.app link anywhere (Pinterest, socials, etc).
